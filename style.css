@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 900px;
+    height: 400px;
+    
+    margin: auto;
+}
+.for{
+    width: 800px;
+    height: 300px;
+    background-color: darkgray;
+        margin: 50px auto;
+    padding: 20px 50px;
+
+}
+.alah{
+    border-radius: 5px;
+    padding: 50px;
+    color: black;
+     width: 800px;
+    min-height:200px;
+    background-color: darkgray;
+        margin: 50px auto;
+    border: 1px black solid;
+}
+
+
+textarea[name="text"]{
+    width: 600px;
+    height: 200px;
+}
+.hadga{
+    width: 600px;
+    height: 300px;
+    display: none;
+    
+}
+select[name="family"]{
+    width: 285px;
+    height: 30px;
+}
+.col{
+    width: 131px;
+    height: 131px;
+    border: 1px solid black;
+    float: right;
+    display: none;
+    position: relative;
+    bottom: 120px;
+}
+.co{
+    
+    width: 43px;
+    height: 43px;
+    float: left;
+}
+.ll1{
+    background-color: red;
+}
+.ll2{
+    background-color: green;
+}
+.ll3{
+    background-color: blue;
+}
+.ll4{
+    background-color: purple;
+}
+.ll5{
+    background-color: yellow;
+}
+.ll6{
+    background-color: black;
+}
+.ll7{
+    background-color: grey;
+}
+.ll8{
+    background-color: aqua;
+}
+.ll9{
+    background-color: darkblue;
+}
+.colbg{
+      width: 131px;
+    height: 131px;
+    border: 1px solid black;
+    float: right;
+    display: none;
+     position: relative;
+    bottom: 120px;
+}
+
+.llc1{
+    
+    background-color: red;
+}
+.llc2{
+    background-color: green;
+}
+.llc3{
+    background-color: blue;
+}
+.llc4{
+    background-color: purple;
+}
+.llc5{
+    background-color: yellow;
+}
+.llc6{
+    background-color: black;
+}
+.llc7{
+    background-color: grey;
+}
+.llc8{
+    background-color: aqua;
+}
+.llc9{
+    background-color: darkblue;
+}
+form[name="f2"]{
+    display: none;
+}
+.menu{ 
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    display: none;
+    background-color: gray;
+    padding: 30px;
+}
+.tableredakt{
+    padding: 30px 0 30px 30px;
+       width: 800px;
+    height: 400px;
+    margin: auto;
+    display: none;
+    background-color: gray;
+}
+.listconstruckt{
+    padding: 30px 0 30px 30px;
+        width: 800px;
+    height: 300px;
+    margin: auto;
+    display: none;
+    background-color: gray;
+}
+.list{
+    display: none;
+}
+input[name="edit"]{
+    width: 50px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="style"]{
+    width: 60px;
+    height: 40px;
+    background-color: deepskyblue;
+    border-radius: 5px;
+    border: 0px;
+}
+#f1{
+    margin: auto;
+    width: 200px;
+    height: 45px;
+}
+input[name="add"]{
+    width: 50px;
+    height: 40px;
+    background-color: indianred;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="save"]{
+    width: 60px;
+    height: 40px;
+    background-color: green;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="colortxt"]{
+    width: 100px;
+    height: 50px;
+    background-color:darkslategrey;
+    border: 0px;
+    border-radius: 5px;
+}
+input[name="Bgraund"]{
+    width: 100px;
+    height: 50px;
+    background-color:darkslategrey;
+    border: 0px;
+    border-radius: 5px;
+}
+.span{
+    margin-right: 30px;
+}
+input[name="CountTr"]{
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="CountTd"]{
+    margin-top: 5px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+form[name="f8"] > p{
+    display: block;
+    margin-top: 30px;
+}
+input[name="widthoftd"]{
+    margin-top: 5px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="heigthtd"]{
+    margin-top: 5px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="widthoftd"]{
+    margin-top: 5px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="borderwth"]{
+    margin-top: 5px;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+select[name="stylebord"]{
+    margin-top: 5px;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+select[name="colortable"]{
+    margin-top: 5px;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="tablebtn"]{
+    margin-top: 10px;
+    width: 150px;
+    height: 35px;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
+input[name="coutnli"]{
+    margin-top: 5px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+select[name="typeofmarks"]{
+    margin-top: 5px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+}
+input[name="createlist"]{
+      margin-top: 10px;
+    width: 120px;
+    height: 35px;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
+.tablepostr{
+    display: none;
+}
